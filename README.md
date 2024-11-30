@@ -1,45 +1,74 @@
-# Excel-sales-analytics
-## Sales Report :
+# Excel-Sales-Analytics
+
+## 🌟 Project Overview
+
+This project utilizes Excel to deliver advanced sales and financial analytics, empowering stakeholders with actionable insights into performance metrics and growth opportunities. The focus is on creating user-friendly, data-driven reports for informed decision-making.
+
+---
+
+## 🔍 Key Features
+
+- **Sales Analytics:**
+  - **Customer Performance Reports**: Analyze individual customer contributions and identify growth opportunities.
+  - **Market Performance Analysis**: Compare sales against targets to reveal market trends and gaps.
+
+- **Financial Analytics:**
+  - **Profit & Loss (P&L) Reports**: Insights by fiscal year, month, and market for comprehensive financial evaluation.
+  - **Benchmarking and Forecasting**: Leverage historical and industry data to plan budgets and predict future outcomes.
+
+- **User-Centric Reporting**:
+  - Tailored for stakeholders with varying levels of technical expertise.
+  - Interactive visualizations and actionable metrics.
+
+---
+
+## 🛠️ Skills & Tools Utilized
+
+### Technical Skills:
+- **ETL Expertise**: Data extraction, transformation, and loading using Power Query.
+- **Data Modeling**: Building robust relationships in Power Pivot.
+- **DAX Proficiency**: Creating calculated columns and measures for dynamic insights.
+- **Data Visualization**: Presenting insights with visually appealing and actionable formats.
+
+### Soft Skills:
+- Effective communication of data insights.
+- Empathy-driven report design.
+- Strategic planning for streamlined reporting processes.
+
+---
+
+## 📊 Insights from Reports
+
+### Sales Data:
+- Explore **Gross Margin Trends** across regions and timeframes to pinpoint high-performing sub-zones.
+- Evaluate **Market-Specific Profitability** using detailed P&L data.
+
+### Financial Metrics:
+- Analyze fiscal year reports to track **year-on-year profitability**.
+- Facilitate decision-making with detailed **monthly financial breakdowns**.
+
+---
+
+## 📁 Project Structure
+
+### Directory Overview:
+project-root/ ├── data/ # Raw and processed data files ├── reports/ # Generated reports in PDF and Excel formats ├── scripts/ # Python scripts for automation ├── README.md # Project documentation
 
 
-- **Project objective:** 
+---
 
-    **1.** Create a _[customer performance report] (https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+## 🚀 Getting Started
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+### Prerequisites:
+- Microsoft Excel (Power Query and Power Pivot enabled).
+- Basic understanding of data analysis concepts.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+### Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anshikaPo/Excel-sales-analytics.git
+2. Open the project directory and load the required files in Excel.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
-
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+3 .Explore reports using Power BI or Excel to view insights dynamically.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
