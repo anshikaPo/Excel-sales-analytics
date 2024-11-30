@@ -69,6 +69,6 @@ project-root/ ├── data/ # Raw and processed data files ├── reports/ 
    git clone https://github.com/anshikaPo/Excel-sales-analytics.git
 2. Open the project directory and load the required files in Excel.
 
-3 .Explore reports using Power BI or Excel to view insights dynamically.
+ 3 .Explore reports using Power BI or Excel to view insights dynamically.
 
 
